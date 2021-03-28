@@ -1,4 +1,4 @@
----
+Dark night : HUNDRED RHTYMS PUBG MOBILE mode nigth survive in battle ground arangel---
 title: Setting up GitHub Sponsors for your user account
 intro: 'You can become a sponsored developer by joining {% data variables.product.prodname_sponsors %}, completing your sponsored developer profile, creating sponsorship tiers, submitting your bank and tax information, and enabling two-factor authentication on your {% data variables.product.prodname_dotcom %} account.'
 redirect_from:
